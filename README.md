@@ -68,6 +68,7 @@ numpy = 1.21.6
 pandas = 1.3.5
 sklearn = 1.0.2
 xgboost = 1.6.1
+keras = 2.3.1
 ```
 
 
