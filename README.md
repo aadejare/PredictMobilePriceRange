@@ -96,4 +96,4 @@ There's more but you should play around with it and discover more through the no
 
 ## Reference 
 
-- [Let’s Invent a New ESRB Category](https://projectpioneer.wordpress.com/2022/09/14/lets-invent-a-new-esrb-category/) [Article]
+- [Predicting Prices with Machine Learning and Deep Learning Regressiony](https://projectpioneer.wordpress.com/2023/01/10/predicting-prices-with-machine-learning-and-deep-learning-regression/) [Article]
