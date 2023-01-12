@@ -34,8 +34,10 @@ xgboost = 1.6.1
 keras = 2.3.1
 ```
 
-Grab data from the data source and run from Jupyter Notebook You can grab a method of running a Jupyter Notebook from Anaconda https://www.anaconda.com/
+## Executing the projects
 
+Download the data and open a Jupyter Notebook program. You can grab a method of running a Jupyter Notebook from Anaconda https://www.anaconda.com/ 
+From the Juypter Notebook program go to the folder with this notebook and the data in its folder "moble". Open the notebook, run and enjoy.
 
 ## Files
 
